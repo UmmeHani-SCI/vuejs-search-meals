@@ -14,6 +14,7 @@
     meals: {
       required: true,
       type: Array,
+    
     }
   })
   
